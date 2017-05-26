@@ -2,8 +2,8 @@
 //  WordPlayTests.swift
 //  WordPlayTests
 //
-//  Created by jliu on 11/4/16.
-//  Copyright © 2016 Jason Liu. All rights reserved.
+//  Created by Jake Papalia on 12/3/16.
+//  Copyright © 2016 Jake Papalia. All rights reserved.
 //
 
 import XCTest
